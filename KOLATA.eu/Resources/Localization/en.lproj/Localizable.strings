@@ -1,0 +1,84 @@
+/* General */
+"app_name" = "kolata.me";
+"save" = "Save";
+"cancel" = "Cancel";
+"delete" = "Delete";
+"edit" = "Edit";
+"done" = "Done";
+"add" = "Add";
+"close" = "Close";
+"ok" = "OK";
+"error" = "Error";
+"loading" = "Loading...";
+"coming_soon" = "Coming Soon";
+
+/* Auth */
+"sign_in" = "Sign In";
+"sign_up" = "Sign Up";
+"email" = "Email";
+"password" = "Password";
+"forgot_password" = "Forgot Password?";
+"create_account" = "Create Account";
+"full_name" = "Full Name";
+"confirm_password" = "Confirm Password";
+
+/* Tabs */
+"garage" = "Garage";
+"services" = "Services";
+"documents" = "Documents";
+"profile" = "Profile";
+
+/* Garage */
+"add_car" = "Add Car";
+"no_car_title" = "No Car Added";
+"no_car_message" = "Add your car to start tracking its status and records.";
+"car_details" = "Car Details";
+"general_info" = "General Info";
+"repairs" = "Repairs";
+"fuel" = "Fuel";
+"events" = "Events";
+"taxes" = "Taxes";
+"statistics" = "Statistics";
+
+/* Status */
+"vignette" = "Vignette";
+"technical_inspection" = "Technical Inspection";
+"liability_insurance" = "Liability Insurance";
+"valid" = "Valid";
+"expiring_soon" = "Expiring Soon";
+"expired" = "Expired";
+"unknown" = "Unknown";
+
+/* Car Fields */
+"brand" = "Brand";
+"model" = "Model";
+"year" = "Year";
+"registration_number" = "Registration Number";
+"vin" = "VIN";
+"fuel_type" = "Fuel Type";
+"mileage" = "Mileage";
+"color" = "Color";
+"notes" = "Notes";
+
+/* Services */
+"fine_check" = "Fine Check";
+"vignette_check" = "Vignette Check";
+"repair_shops" = "Repair Shops";
+"roadside_assistance" = "Roadside Assistance";
+"insurance_brokers" = "Insurance Brokers";
+"gas_stations" = "Gas Stations";
+
+/* Documents */
+"add_document" = "Add Document";
+"no_documents" = "No Documents";
+
+/* Profile */
+"edit_profile" = "Edit Profile";
+"change_password" = "Change Password";
+"notifications" = "Notifications";
+"language" = "Language";
+"faq" = "FAQ";
+"privacy_policy" = "Privacy Policy";
+"terms_of_service" = "Terms of Service";
+"log_out" = "Log Out";
+"delete_account" = "Delete Account";

@@ -1,24 +1,20 @@
-//
-//  ContentView.swift
-//  KOLATA.eu
-//
-//  Created by Ivan Savkov on 30.03.26.
-//
-
 import SwiftUI
+import SwiftData
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @Environment(AuthManager.self) private var authManager
+    @Environment(\.modelContext) private var modelContext
 
-#Preview {
-    ContentView()
+    var body: some View {
+        Group {
+            if authManager.isAuthenticated {
+                MainTabView()
+            } else {
+                LoginView()
+            }
+        }
+        .onAppear {
+            authManager.configure(with: modelContext)
+        }
+    }
 }
