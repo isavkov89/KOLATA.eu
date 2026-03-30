@@ -1,0 +1,84 @@
+/* General */
+"app_name" = "kolata.me";
+"save" = "Запази";
+"cancel" = "Отказ";
+"delete" = "Изтрий";
+"edit" = "Редактирай";
+"done" = "Готово";
+"add" = "Добави";
+"close" = "Затвори";
+"ok" = "ОК";
+"error" = "Грешка";
+"loading" = "Зареждане...";
+"coming_soon" = "Очаквайте скоро";
+
+/* Auth */
+"sign_in" = "Вход";
+"sign_up" = "Регистрация";
+"email" = "Имейл";
+"password" = "Парола";
+"forgot_password" = "Забравена парола?";
+"create_account" = "Създай акаунт";
+"full_name" = "Пълно име";
+"confirm_password" = "Потвърди парола";
+
+/* Tabs */
+"garage" = "Гараж";
+"services" = "Услуги";
+"documents" = "Документи";
+"profile" = "Профил";
+
+/* Garage */
+"add_car" = "Добави кола";
+"no_car_title" = "Няма добавена кола";
+"no_car_message" = "Добавете колата си, за да започнете да проследявате нейния статус.";
+"car_details" = "Детайли за колата";
+"general_info" = "Обща информация";
+"repairs" = "Ремонти";
+"fuel" = "Гориво";
+"events" = "Събития";
+"taxes" = "Данъци";
+"statistics" = "Статистика";
+
+/* Status */
+"vignette" = "Винетка";
+"technical_inspection" = "ГТП";
+"liability_insurance" = "Гражданска отговорност";
+"valid" = "Валидна";
+"expiring_soon" = "Изтича скоро";
+"expired" = "Изтекла";
+"unknown" = "Неизвестно";
+
+/* Car Fields */
+"brand" = "Марка";
+"model" = "Модел";
+"year" = "Година";
+"registration_number" = "Регистрационен номер";
+"vin" = "VIN";
+"fuel_type" = "Вид гориво";
+"mileage" = "Пробег";
+"color" = "Цвят";
+"notes" = "Бележки";
+
+/* Services */
+"fine_check" = "Проверка на глоби";
+"vignette_check" = "Проверка на винетка";
+"repair_shops" = "Сервизи наблизо";
+"roadside_assistance" = "Пътна помощ";
+"insurance_brokers" = "Застрахователни брокери";
+"gas_stations" = "Бензиностанции";
+
+/* Documents */
+"add_document" = "Добави документ";
+"no_documents" = "Няма документи";
+
+/* Profile */
+"edit_profile" = "Редактирай профил";
+"change_password" = "Смяна на парола";
+"notifications" = "Известия";
+"language" = "Език";
+"faq" = "ЧЗВ";
+"privacy_policy" = "Политика за поверителност";
+"terms_of_service" = "Условия за ползване";
+"log_out" = "Изход";
+"delete_account" = "Изтриване на акаунт";
